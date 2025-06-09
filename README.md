@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Kayla Jolie (she/her) and this is my Github profile! I am a web developer and designer based in Edmonton, Alberta, and I've received my Digital Media and IT diploma from NAIT. 
+This is my Github profile! I am a web developer and designer based in Edmonton, Alberta, and I've received my Digital Media and IT diploma from NAIT. 
 
 Before you know it you'll see my work all throughout the web. You'll see ;)
 
